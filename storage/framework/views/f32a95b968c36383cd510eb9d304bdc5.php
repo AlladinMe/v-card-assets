@@ -1,0 +1,1 @@
+<?php /**PATH /home/vcard/public_html/resources/views/plan-expiry.blade.php ENDPATH**/ ?>
